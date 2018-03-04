@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#ffffffff</color>
+    <color name="almanac_big_text">#ffff6666</color>
+    <color name="almanac_text2">#ff584943</color>
+    <color name="almanac_line_a70">#b0c6a288</color>
+    <color name="trans">#00000000</color>
+    <color name="almanac_line_a50">#88c6a288</color>
+    <color name="almanac_text1">#ff956643</color>
+</resources>

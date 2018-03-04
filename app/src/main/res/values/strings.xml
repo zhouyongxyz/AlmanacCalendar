@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AlmanacLayout</string>
+
+    <string name="about7">诸神方位</string>
+    <string name="taishen">胎神</string>
+    <string name="about2">冲煞</string>
+    <string name="about3">五行</string>
+    <string name="about6">星宿</string>
+    <string name="pengzu">彭祖</string>
+    <string name="almanac_day">24</string>
+    <string name="almanac_lunar">已未羊年 七月初五</string>
+    <string name="gtime_week">星\n期\n三</string>
+    <string name="gtime_acient_month">甲\n申\n月</string>
+    <string name="almanac_title_date">2016年1月</string>
+</resources>
